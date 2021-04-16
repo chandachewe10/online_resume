@@ -1,3 +1,4 @@
+<h2>ONLINE RESUME MAKER</h2>
 
 Simple online Resume Maker to help you create a simple resume online in less than five minutes without using a laptop.
 It is easily done you just have to fill in the blanks.
